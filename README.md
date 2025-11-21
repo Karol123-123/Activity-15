@@ -8,3 +8,6 @@ This assignment is desiged to help the user become more adept with GitHub. By us
   * Moved onto next dataset and displayed it. Paired with narrative text beneath it for further clarification.
   * Repeated with Boxplot data.
   * Lastly, added code summary for anyone interested in replication.
+
+**Workflow**
+I have created a dev branch where any modification is made before merging with main.
