@@ -9,5 +9,16 @@ This assignment is desiged to help the user become more adept with GitHub. By us
   * Repeated with Boxplot data.
   * Lastly, added code summary for anyone interested in replication.
 
+**Assignment 14 more in depth details**
+For this assignment I created a QMD file based of three previous assignments 
+where I had to gather, clean and modify the data to fit a table and graph. Most data was provided in the form of csv files. This code was then used in a well formatted QMD file where I inserted each piece of code and visual for better analysis. I also followed up with a brief description under each visual to enchance the readers knowledge as to what is being displayed.
+
+**Current plan**
+The current idea for this repo task is to insert both files associated with assignment 14, those 
+being the QMD and PDF. Using the newly created repo any user can fully access this assignment and view the code as well as the fully rendered pdf. Now I have already created the repor as well as added the proper files. Other Chnages that I would consider in the future would be formatting anything that may need fixing.
+
 **Workflow**
-I have created a dev branch where any modification is made before merging with main.
+ * I have created a dev branch where any modification is made before merging with main.
+
+**Contact Info**
+ * I can be reached at kkb5896@psu.edu
