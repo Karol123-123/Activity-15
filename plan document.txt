@@ -1,0 +1,37 @@
+Project plan
+  Goal:
+    - Create a fuly rendered QMD file containing meangingful data visualizations using three different datasets
+    - Apply the different rules and principles learned to produce effective graphics that help the user interpret the data easier
+    - Ensure code for both the tables and visuals is clear and concise that anyone could reproduce.
+
+  Needs:
+    - Access the appropriate datasets
+    - Load all necessaries libraries like tidyverse, janitor, etc.
+    - Establish a workflow aimed at making the process better and more organized.
+
+  Steps:
+    - Load all libraries as well as data
+    - Inspect the data and analyze it to see if it needs to be modify or altered in any way.
+    - If it needs to be cleaned this step is dedicated to clean and reorganizing it before plotting.
+    - Next would be to create and test different visuals that align with the clean and filtered data the best.
+    - For this assignment we were instructed to add a narrative below each individual so this step will aid in creating that.
+    - Lastly would be to implement the code appendix ensureing all the code is displayed and reproducible.
+
+
+Setup/Maintenance of repo plan
+  Goal:
+    - To create and maintain an organized github repository that includes my finished project.
+    - Using commits and pulls to indicate what meaningful changes I am making that better my repo.
+    - Making sure each document is formatted correctly and each file is loaded properly.
+
+  Needs:
+    - Github and Github repo with a main and any other needed branches.
+    - README to explain what this repo is and does as well as what the files implemented are and do.
+    - clearly labeled commits with proper descriptions informin the user of what has been modified.
+
+  Steps:
+    - Create and initialize repo and make sure main and README is included.
+    - create a dev branch where the modificaitons are made before being merged with main.
+    - Include meaningful messages for commits and pulls.
+    - Merge dev with main avoiding any errors.
+    - Make sure repo is in polished and in order.
