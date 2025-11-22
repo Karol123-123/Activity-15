@@ -16,6 +16,8 @@ execute:
 ---
 
 ```{r}
+# Following the Tidyverse Style Guide
+
 #appropriate libraries
 #| label: setup
 library(tidyverse)  
@@ -32,7 +34,7 @@ library(scales)
 
 # Read the CSV file - force all columns to character to avoid conflicts
 rawForces <- read_csv(
-  '/Users/karolbucon/Downloads/US Armed Forces (6_2024) - Sheet1.csv', 
+  'proj_data/US Armed Forces (6_2024) - Sheet1.csv', 
   skip = 3, 
   n_max = 28,
   col_types = cols(.default = "c")  # Read everything as character
@@ -40,7 +42,7 @@ rawForces <- read_csv(
 
 # Get headers from the CSV
 forcesHeaders <- read_csv(
-  '/Users/karolbucon/Downloads/US Armed Forces (6_2024) - Sheet1.csv', 
+  'proj_data/US Armed Forces (6_2024) - Sheet1.csv', 
   col_names = FALSE, 
   n_max = 3,
   col_types = cols(.default = "c")
