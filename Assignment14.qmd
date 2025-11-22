@@ -16,6 +16,8 @@ execute:
 ---
 
 ```{r}
+# Following the Tidyverse Style Guide
+
 #appropriate libraries
 #| label: setup
 library(tidyverse)  
